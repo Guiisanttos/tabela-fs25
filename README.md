@@ -38,7 +38,7 @@ git push
 
 ```
 
-TABELA GAMES 
+TABELA
 
 <html>
 <head>
