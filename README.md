@@ -50,7 +50,7 @@ TABELA
         }
         th/* , td */{
             border: 1px solid black;
-            background-color: rgb(192, 53, 53);
+            background-color: rgb;
             color:blue
         }
         td {
