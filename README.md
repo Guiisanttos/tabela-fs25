@@ -42,7 +42,7 @@ TABELA GAMES
 
 <html>
 <head>
-    <title>TABELA DE GAMES</title>
+    <title></title>
     <style>
         table{
             font-family: arial;
@@ -63,27 +63,27 @@ TABELA GAMES
         <table>
             <tr>
                 <th>--</th>
-                <th>GAMES</th>
-                <th>NOTAS</th>
-                <th>CATEGORIA</th>
+                <th></th>
+                <th></th>
+                <th></th>
                 </tr>
                 <tr>
-                    <td>1</td>
-                    <td>COMBAT ARMS</td>
-                    <td>10</td>
-                    <td>FPS</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
                 </tr>
                 <tr>
-                    <td>2</td>
-                    <td>GTA</td>
-                    <td>10</td>
-                    <td>MUNDO ABERTO</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
                 </tr>
                 <tr>
-                    <td>3</td>
-                    <td>FREFIRE</td>
-                    <td>10</td>
-                    <td>FPS</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
                 </tr>
         </table>
     </body>
