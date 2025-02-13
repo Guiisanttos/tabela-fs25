@@ -59,7 +59,7 @@ TABELA GAMES
       </style>
     </head>
     <body>
-        <h1 style="text-align:center;">Melhores Games</h1>
+        <h1 style="text-align:center;"></h1>
         <table>
             <tr>
                 <th>--</th>
